@@ -1,0 +1,93 @@
+body
+{
+	background-image: url('25.jpg');
+	font-family: agency;
+}
+.h11
+{
+	color: white;
+	font-size: 60px;
+	padding-top: 50px;
+}
+.p1
+{
+	color: white;
+	font-size: 20px;
+}
+h1
+{
+	color: black;
+	font-size: 60px;
+	padding-bottom: 0px;
+}
+h6
+{
+	color: black;
+	font-size: 20px;
+}
+.hr1
+{
+	color: white;
+	height: 5px;
+	max-width: 200px;
+	background-color: white;
+}
+.beginning
+{
+	padding: none;
+}
+.Main
+{
+	margin: auto;
+    border: 1px solid white;
+    padding: 10px;
+	background-color: white;
+	width: 50%;
+	max-height: 100%;
+}
+p
+{
+	text-align: center;
+	font-family: arial;
+	padding: 10px;
+}
+table {
+  font-family: arial, sans-serif;
+  width: 100%;
+  border-collapse: collapse;
+  border-color: black;
+ }
+.LeftMain
+{
+	margin: auto;
+	float: left;
+    border: 1px solid white;
+    padding: 10px;
+	background-color: white;
+	width: 45%;
+	max-height: 40%;
+}
+.RightMain
+{
+	margin: auto;
+	float: right;
+    border: 1px solid white;
+    padding: 10px;
+	background-color: white;
+	width: 45%;
+	max-height: 40%;
+}
+.list
+{
+	text-align: left;
+}
+th,td
+{
+	margin: auto;
+	padding: 8px;
+}
+li
+{
+	padding-left: 8px;
+	padding-top: 10px;
+}
